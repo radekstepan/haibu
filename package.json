@@ -31,7 +31,8 @@
     "tar": "0.1.13",
     "winston": "0.6.2",
     "union": "0.3.3",
-    "knox": "0.0.11"
+    "knox": "0.0.11",
+    "wrench": "1.4.4"
   },
   "devDependencies": {
     "winston-loggly": "0.6.0",
